@@ -1,7 +1,12 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(157, 255, 0);
+=======
+    color: rgb(238, 17, 17);
+>>>>>>> master
     text-align: center;
+    font-family: 'Arial';
     font-family: 'Arial';
     font-size: 16px;
     margin: 0;
@@ -24,6 +29,7 @@ body
     font-weight: normal;
     font-size: 0.8em;
     
+
 }
 #container
 {
